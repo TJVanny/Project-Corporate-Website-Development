@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-.headercontainer {
+header {
   display: flex;
   height: 69px;
   justify-content: space-between;
