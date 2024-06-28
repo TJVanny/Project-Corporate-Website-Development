@@ -11,6 +11,7 @@ body {
 
 header {
   display: flex;
+  flex-direction: row;
   height: 69px;
   justify-content: space-between;
   padding: 10px;
